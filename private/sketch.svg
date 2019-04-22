@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 56 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect x="0" y="0" width="56" height="20" style="fill:none;stroke:rgb(190,190,190);stroke-width:2px;"/>
+    <path d="M21.777,12.746L23.285,12.746L5.773,19L50.227,19L32.715,12.746L34.223,12.746L34.223,11.162L56.471,19.118C57.257,19.615 56.999,20.923 56,21L0,21C-0.958,20.929 -1.356,19.509 -0.336,19.058L21.777,11.16L21.777,12.746ZM32.735,7.254L55.943,-0.998C55.99,-0.998 56.038,-0.997 56.085,-0.996C56.995,-0.853 57.326,0.507 56.336,0.942L34.223,8.84L34.223,7.254L32.735,7.254ZM21.777,8.838L-0.467,0.884C-1.314,0.357 -0.902,-1.287 0.336,-0.942L23.285,7.254L21.777,7.254L21.777,8.838Z" style="fill:rgb(190,190,190);"/>
+    <g transform="matrix(1,0,0,1,-2.3558,-0.841356)">
+        <text x="24.776px" y="12.43px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:5px;fill:rgb(190,190,190);">Logo</text>
+    </g>
+</svg>
